@@ -25,7 +25,7 @@ See the [Maven Project Documentation](http://developer.jasig.org/projects/jspc-m
 
 ## JSP Compilers
 
-The available JSP compilers can be found by browsing [org.jasig.mojo.jspc GroupId](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jasig.mojo.jspc%22).
+The available JSP compilers can be found by browsing [com.github.sellersj.jspc GroupId](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.sellersj.jspc%22).
 
 ### Issues
 
